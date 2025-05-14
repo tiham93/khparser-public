@@ -1,2 +1,2 @@
 # khparser-public
- Front end TUI to download albums from khinsider
+ Simple TUI to search and download albums from khinsider
